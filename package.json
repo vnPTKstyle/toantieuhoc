@@ -1,0 +1,27 @@
+{
+  "name": "toan-tieu-hoc",
+  "version": "1.0.0",
+  "description": "Web học và luyện toán tiểu học lớp 1-5 theo chương trình Bộ GD&ĐT Việt Nam",
+  "main": "server.js",
+  "scripts": {
+    "prestart": "node -e \"require('./scripts/free-port').freePort(Number(process.env.PORT)||3000)\"",
+    "prewatch": "node -e \"require('./scripts/free-port').freePort(Number(process.env.PORT)||3000)\"",
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "watch": "node scripts/watch-dev.js",
+    "build:danh-van": "node scripts/build-danh-van-pages.js",
+    "build:reader-js": "node -e \"const fs=require('fs');fs.writeFileSync('public/js/danh-van-reader.js',fs.readFileSync('public/js/dv-speech.js','utf8')+'\\n'+fs.readFileSync('public/js/danh-van-pdf.js','utf8'));\""
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "gtts": "^0.2.1"
+  },
+  "devDependencies": {
+    "pdf-to-img": "^7.0.1",
+    "tesseract.js": "^7.0.0"
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "generated": "2026-10-19T05:41:57.211Z",
+  "numPages": 126,
+  "toc": [
+    {
+      "id": "cover",
+      "label": "Bìa & giới thiệu",
+      "from": 1,
+      "to": 4
+    },
+    {
+      "id": "am-chu",
+      "label": "Phần 1 · Âm – chữ & ghép âm",
+      "from": 5,
+      "to": 69
+    },
+    {
+      "id": "hoc-van",
+      "label": "Phần 2 · Học vần",
+      "from": 70,
+      "to": 111
+    },
+    {
+      "id": "luyen-doc",
+      "label": "Phần 3 · Luyện đọc",
+      "from": 112,
+      "to": 126
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "image": "/danh-van/pages/001.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 2,
+      "image": "/danh-van/pages/002.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 3,
+      "image": "/danh-van/pages/003.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 4,
+      "image": "/danh-van/pages/004.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 5,
+      "image": "/danh-van/pages/005.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 6,
+      "image": "/danh-van/pages/006.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 7,
+      "image": "/danh-van/pages/007.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 8,
+      "image": "/danh-van/pages/008.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 9,
+      "image": "/danh-van/pages/009.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 10,
+      "image": "/danh-van/pages/010.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 11,
+      "image": "/danh-van/pages/011.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 12,
+      "image": "/danh-van/pages/012.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 13,
+      "image": "/danh-van/pages/013.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 14,
+      "image": "/danh-van/pages/014.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 15,
+      "image": "/danh-van/pages/015.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 16,
+      "image": "/danh-van/pages/016.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 17,
+      "image": "/danh-van/pages/017.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 18,
+      "image": "/danh-van/pages/018.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 19,
+      "image": "/danh-van/pages/019.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 20,
+      "image": "/danh-van/pages/020.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 21,
+      "image": "/danh-van/pages/021.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 22,
+      "image": "/danh-van/pages/022.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 23,
+      "image": "/danh-van/pages/023.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 24,
+      "image": "/danh-van/pages/024.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 25,
+      "image": "/danh-van/pages/025.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 26,
+      "image": "/danh-van/pages/026.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 27,
+      "image": "/danh-van/pages/027.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 28,
+      "image": "/danh-van/pages/028.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 29,
+      "image": "/danh-van/pages/029.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 30,
+      "image": "/danh-van/pages/030.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 31,
+      "image": "/danh-van/pages/031.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 32,
+      "image": "/danh-van/pages/032.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 33,
+      "image": "/danh-van/pages/033.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 34,
+      "image": "/danh-van/pages/034.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 35,
+      "image": "/danh-van/pages/035.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 36,
+      "image": "/danh-van/pages/036.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 37,
+      "image": "/danh-van/pages/037.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 38,
+      "image": "/danh-van/pages/038.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 39,
+      "image": "/danh-van/pages/039.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 40,
+      "image": "/danh-van/pages/040.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 41,
+      "image": "/danh-van/pages/041.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 42,
+      "image": "/danh-van/pages/042.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 43,
+      "image": "/danh-van/pages/043.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 44,
+      "image": "/danh-van/pages/044.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 45,
+      "image": "/danh-van/pages/045.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 46,
+      "image": "/danh-van/pages/046.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 47,
+      "image": "/danh-van/pages/047.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 48,
+      "image": "/danh-van/pages/048.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 49,
+      "image": "/danh-van/pages/049.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 50,
+      "image": "/danh-van/pages/050.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 51,
+      "image": "/danh-van/pages/051.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 52,
+      "image": "/danh-van/pages/052.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 53,
+      "image": "/danh-van/pages/053.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 54,
+      "image": "/danh-van/pages/054.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 55,
+      "image": "/danh-van/pages/055.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 56,
+      "image": "/danh-van/pages/056.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 57,
+      "image": "/danh-van/pages/057.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 58,
+      "image": "/danh-van/pages/058.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 59,
+      "image": "/danh-van/pages/059.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 60,
+      "image": "/danh-van/pages/060.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 61,
+      "image": "/danh-van/pages/061.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 62,
+      "image": "/danh-van/pages/062.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 63,
+      "image": "/danh-van/pages/063.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 64,
+      "image": "/danh-van/pages/064.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 65,
+      "image": "/danh-van/pages/065.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 66,
+      "image": "/danh-van/pages/066.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 67,
+      "image": "/danh-van/pages/067.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 68,
+      "image": "/danh-van/pages/068.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 69,
+      "image": "/danh-van/pages/069.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 70,
+      "image": "/danh-van/pages/070.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 71,
+      "image": "/danh-van/pages/071.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 72,
+      "image": "/danh-van/pages/072.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 73,
+      "image": "/danh-van/pages/073.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 74,
+      "image": "/danh-van/pages/074.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 75,
+      "image": "/danh-van/pages/075.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 76,
+      "image": "/danh-van/pages/076.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 77,
+      "image": "/danh-van/pages/077.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 78,
+      "image": "/danh-van/pages/078.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 79,
+      "image": "/danh-van/pages/079.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 80,
+      "image": "/danh-van/pages/080.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 81,
+      "image": "/danh-van/pages/081.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 82,
+      "image": "/danh-van/pages/082.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 83,
+      "image": "/danh-van/pages/083.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 84,
+      "image": "/danh-van/pages/084.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 85,
+      "image": "/danh-van/pages/085.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 86,
+      "image": "/danh-van/pages/086.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 87,
+      "image": "/danh-van/pages/087.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 88,
+      "image": "/danh-van/pages/088.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 89,
+      "image": "/danh-van/pages/089.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 90,
+      "image": "/danh-van/pages/090.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 91,
+      "image": "/danh-van/pages/091.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 92,
+      "image": "/danh-van/pages/092.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 93,
+      "image": "/danh-van/pages/093.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 94,
+      "image": "/danh-van/pages/094.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 95,
+      "image": "/danh-van/pages/095.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 96,
+      "image": "/danh-van/pages/096.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 97,
+      "image": "/danh-van/pages/097.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 98,
+      "image": "/danh-van/pages/098.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 99,
+      "image": "/danh-van/pages/099.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 100,
+      "image": "/danh-van/pages/100.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 101,
+      "image": "/danh-van/pages/101.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 102,
+      "image": "/danh-van/pages/102.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 103,
+      "image": "/danh-van/pages/103.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 104,
+      "image": "/danh-van/pages/104.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 105,
+      "image": "/danh-van/pages/105.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 106,
+      "image": "/danh-van/pages/106.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 107,
+      "image": "/danh-van/pages/107.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 108,
+      "image": "/danh-van/pages/108.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 109,
+      "image": "/danh-van/pages/109.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 110,
+      "image": "/danh-van/pages/110.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 111,
+      "image": "/danh-van/pages/111.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 112,
+      "image": "/danh-van/pages/112.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 113,
+      "image": "/danh-van/pages/113.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 114,
+      "image": "/danh-van/pages/114.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 115,
+      "image": "/danh-van/pages/115.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 116,
+      "image": "/danh-van/pages/116.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 117,
+      "image": "/danh-van/pages/117.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 118,
+      "image": "/danh-van/pages/118.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 119,
+      "image": "/danh-van/pages/119.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 120,
+      "image": "/danh-van/pages/120.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 121,
+      "image": "/danh-van/pages/121.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 122,
+      "image": "/danh-van/pages/122.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 123,
+      "image": "/danh-van/pages/123.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 124,
+      "image": "/danh-van/pages/124.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 125,
+      "image": "/danh-van/pages/125.png",
+      "text": "",
+      "words": []
+    },
+    {
+      "page": 126,
+      "image": "/danh-van/pages/126.png",
+      "text": "",
+      "words": []
+    }
+  ]
+}
